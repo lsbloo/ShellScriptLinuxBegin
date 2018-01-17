@@ -19,3 +19,5 @@ else
 echo 'Marcos pode atender na parte da noite'
 fi
 
+sleep 4
+echo 'consulta marcada!'
